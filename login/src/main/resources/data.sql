@@ -1,0 +1,1 @@
+insert into usuarios (id, usuario, senha, funcao) values (1, 'admin', '$2a$12$i/VYqnsa4QRuq46YDNpbR.u4.zxWLhWXwfnccvCNJikw5qUp12Rse', 'admin');
