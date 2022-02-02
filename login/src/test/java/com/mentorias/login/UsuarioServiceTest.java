@@ -37,7 +37,7 @@ public class UsuarioServiceTest {
 
     @Test
     public void verificarSeUsuarioLogadoEhAdminTest() {
-        Usuario usuario = new Usuario(1L, "jao", "123", "admin");
+        Usuario usuario = new Usuario(1L, "Usuario1", "123", "admin");
         Assert.assertTrue(usuarioService.verificarSeUsuarioLogadoEhAdmin(usuario));
     }
 
