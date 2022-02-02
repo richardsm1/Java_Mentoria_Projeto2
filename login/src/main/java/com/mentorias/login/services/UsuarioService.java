@@ -111,7 +111,6 @@ public class UsuarioService {
 
     public String decodificarCredenciais(HttpServletRequest request) {
         String credenciais = request.getHeader("Authorization");
-        System.out.println(credenciais);
 
         if (credenciais == null || !credenciais.contains("Basic ")) {
             throw new CredenciaisInvalidasException("Credenciais invalidas");
