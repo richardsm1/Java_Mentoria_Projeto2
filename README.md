@@ -1,5 +1,10 @@
 <h1> Mentoria Java - Programa 02 </h1>
 
+ Projeto proposto por [Thiago Pereira de Oliveira](https://github.com/thiagop-o) 
+ 
+ Projeto feito por [Ricardo S. Murça](https://github.com/richardsm1) 
+
+
 <h2> Api - Login </h2>
 
 <hr/>
